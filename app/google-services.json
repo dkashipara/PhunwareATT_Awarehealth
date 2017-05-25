@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "264952179557",
+    "project_id": "grand-icon-132423"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264952179557:android:b05965913cedb39a",
+        "android_client_info": {
+          "package_name": "com.awarepoint.androidaccuracytest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaN_6hUSZGDfySkRvr81_b9D7XXFPyYDY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

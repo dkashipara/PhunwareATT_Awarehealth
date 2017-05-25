@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginBottom="1dp"
+        android:background="@android:color/darker_gray" />
+
+    <TableRow android:gravity="right">
+
+        <Button
+            android:id="@+id/btn_sync_config"
+            android:layout_weight="2"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:text="@string/btn_sync_config" />
+
+        <Button
+            android:id="@+id/btn_sendLEdata"
+            android:layout_weight="2"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:text="@string/btn_sendDataLE" />
+
+        <!--<Button
+            android:id="@+id/btn_sync_map"
+            android:layout_weight="2"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:text="@string/btn_sync_maps" />-->
+
+
+
+    </TableRow>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginBottom="1dp"
+        android:background="@android:color/darker_gray" />
+
+
+</TableLayout>
+
+    </LinearLayout>

@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.awarepoint.androidaccuracytest.MainActivity">
+
+    <item
+        android:id="@+id/menu_display_header"
+        android:orderInCategory="100"
+        android:title="@string/menu_display_header"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_start_ble_scanning"
+        android:orderInCategory="100"
+        android:title="@string/menu_start_ble_scanning"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_SwithMap"
+        android:orderInCategory="100"
+        android:title="@string/menu_switchMap"
+        app:showAsAction="never" />
+</menu>

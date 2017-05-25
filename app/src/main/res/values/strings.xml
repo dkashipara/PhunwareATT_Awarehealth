@@ -1,0 +1,30 @@
+<resources>
+    <!--  <string name="app_name">${versionName}</string>-->
+
+    <string name="menu_display_header">Hide Header</string>
+    <string name="menu_start_ble_scanning">Start Ble Scanning</string>
+
+    <string name="btn_sync_sites">SYNC SITES</string>
+    <string name="btn_sync_beacons">SYNC BEACONS</string>
+    <string name="btn_sync_data">SYNC DATA</string>
+    <string name="btn_sync_maps">SYNC MAPS</string>
+    <string name="btn_send_data_le">SEND LE INPUT</string>
+
+    //phunware
+    <string name="btn_sync_config">SYNC CONFIG</string>
+    <string name="btn_sendDataLE">SEND DATA</string>
+
+    <string name="action_show_stats">Beacon Signal Strengths</string>
+
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+    <string name="button_send">Start BLE scan</string>
+
+
+    <string name="username">UserName:</string>
+    <string name="password">Password:</string>
+    <string name="btn_request_token">Request Token</string>
+    <string name="menu_switchMap">SWITCH TO GOOGLE MAP</string>
+
+
+</resources>
